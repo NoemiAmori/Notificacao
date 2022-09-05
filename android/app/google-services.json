@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496787837527",
+    "project_id": "notificacao-87563",
+    "storage_bucket": "notificacao-87563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496787837527:android:89c268df90152f67e84912",
+        "android_client_info": {
+          "package_name": "com.paladar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496787837527-da5rroqa6jd66s4j48vtmcrva9m498is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNwvU-_fT-Jd7YSrrdSPsDmaXfYvzhq24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496787837527-da5rroqa6jd66s4j48vtmcrva9m498is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
